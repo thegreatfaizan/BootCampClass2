@@ -10,6 +10,7 @@ function App() {
         <p>
           This my first React App
           <br />Stay Tuned!
+          Follow me for more interesting Projects
         </p>
       </header>
       <footer>
